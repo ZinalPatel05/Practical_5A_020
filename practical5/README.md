@@ -6,7 +6,7 @@
 <tr>
 <th>Zinal Patel</th>
 <th>202504104610020</th>
-<th>Practical Se At</th>
+<th>Practical Set A</th>
 
 <tr>
 <td>Vruja Patel</td>
