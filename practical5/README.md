@@ -27,7 +27,7 @@
 <p><b>University: UTU</b></p>
 <img src="images/utu.png" width="200">
 
-<p><b>Department: SEMCA</b></p>
+<p><b>Department: SRIMCA</b></p>
 <img src="images/srimca.jpg" width="200">
 
 <hr>
