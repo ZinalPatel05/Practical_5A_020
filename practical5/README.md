@@ -4,19 +4,14 @@
 
 <table border="1">
 <tr>
-<th>Name</th>
-<th>Enrollment Number</th>
-<th>Practical Set</th>
-</tr>
+<th>Zinal Patel</th>
+<th>202504104610020</th>
+<th>Practical Se At</th>
+
 <tr>
-<td>Your Name</td>
-<td>Your Enrollment No</td>
-<td>Set A</td>
-</tr>
-<tr>
-<td>Partner Name</td>
-<td>Partner Enrollment No</td>
-<td>Set B</td>
+<td>Vruja Patel</td>
+<td>202504104610007</td>
+<td>Practical Set B</td>
 </tr>
 </table>
 
